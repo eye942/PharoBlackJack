@@ -1,0 +1,1 @@
+I am the human player of this BlackJack game.

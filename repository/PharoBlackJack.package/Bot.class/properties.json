@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "RichieYe 6/7/2019 13:56",
+	"super" : "Player",
+	"category" : "BlackJack",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Bot",
+	"type" : "normal"
+}

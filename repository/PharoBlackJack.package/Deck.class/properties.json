@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "RichieYe 3/18/2019 15:37",
+	"super" : "Object",
+	"category" : "BlackJack",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"deck",
+		"position"
+	],
+	"name" : "Deck",
+	"type" : "normal"
+}

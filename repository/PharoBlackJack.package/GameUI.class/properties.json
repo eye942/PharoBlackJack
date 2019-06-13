@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "RichieYe 5/22/2019 19:52",
+	"super" : "ComposableModel",
+	"category" : "BlackJack",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"buttonSubmit",
+		"textEntry",
+		"buttonHit",
+		"buttonStay",
+		"buttonFold",
+		"buttonQuit",
+		"boardMorph",
+		"screen",
+		"game",
+		"view",
+		"state"
+	],
+	"name" : "GameUI",
+	"type" : "normal"
+}
